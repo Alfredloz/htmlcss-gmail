@@ -1,3 +1,19 @@
 .box_content{
   background-image: url(../img/sfondo_mail.jpg);
 }
+#gmail_title{
+  font-size: 25px;
+  color: white;
+  margin: 15px;
+  text-align: center;
+}
+.box_content{
+  margin: 5% 15% 20% 10%;
+}
+.mail{
+  background-color: grey;
+  border: 1px solid black;
+}
+.box{
+  background-color: white;
+}
