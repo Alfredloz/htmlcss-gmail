@@ -1,6 +1,9 @@
 .box_content{
   background-image: url(../img/sfondo_mail.jpg);
 }
+header{
+  margin-left: 10px;
+}
 #gmail_title{
   font-size: 25px;
   color: white;
