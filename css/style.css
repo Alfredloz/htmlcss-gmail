@@ -1,14 +1,18 @@
 .box_content{
   background-image: url(../img/sfondo_mail.jpg);
+  background-size: cover;
 }
 header{
   margin-left: 10px;
 }
+#logo_gmail{
+  line-height: 100px;
+  vertical-align: middle;
+}
 #gmail_title{
-  font-size: 25px;
   color: white;
-  margin: 15px;
-  text-align: center;
+  display: inline-block;
+
 }
 .box_content{
   margin: 5% 15% 20% 10%;
@@ -29,7 +33,7 @@ header{
   border-radius: 70%;
   padding: 15px;
 }
-h1{
+h3{
   color: white;
 }
 #final_text{
